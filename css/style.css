@@ -1,0 +1,14 @@
+.nav-bar{
+        background-color: rgb(120, 40, 31);
+}
+.quem-sou{
+        background-color: rgb(245, 183, 177 );
+        color: white;
+}
+.margin{
+        padding-top: 30px;
+        padding-bottom: 50px;
+}
+body{
+        font: 25px Arial, sans-serif;
+}
